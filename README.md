@@ -1,2 +1,2 @@
 # Advanced-Nghia
-This is my advanced programming course in FGW 2021
+This is my application for advanced programming course in FGW 2021
