@@ -1,0 +1,13 @@
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\bin\Debug\netcoreapp3.1\ASM - Nghia.exe
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\bin\Debug\netcoreapp3.1\ASM - Nghia.deps.json
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\bin\Debug\netcoreapp3.1\ASM - Nghia.runtimeconfig.json
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\bin\Debug\netcoreapp3.1\ASM - Nghia.runtimeconfig.dev.json
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\bin\Debug\netcoreapp3.1\ASM - Nghia.dll
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\bin\Debug\netcoreapp3.1\ASM - Nghia.pdb
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\obj\Debug\netcoreapp3.1\ASM - Nghia.csprojAssemblyReference.cache
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\obj\Debug\netcoreapp3.1\ASM - Nghia.AssemblyInfoInputs.cache
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\obj\Debug\netcoreapp3.1\ASM - Nghia.AssemblyInfo.cs
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\obj\Debug\netcoreapp3.1\ASM - Nghia.csproj.CoreCompileInputs.cache
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\obj\Debug\netcoreapp3.1\ASM - Nghia.dll
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\obj\Debug\netcoreapp3.1\ASM - Nghia.pdb
+C:\Users\homecun\source\repos\ASM - Nghia\ASM - Nghia\obj\Debug\netcoreapp3.1\ASM - Nghia.genruntimeconfig.cache
